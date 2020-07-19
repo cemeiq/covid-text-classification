@@ -5,20 +5,6 @@ _This prject uses convolution neural networks to classify covid-19 articles._
 
 #### [Blog Post associated with this project](https://iqra.hashnode.dev/text-classification-of-covid-19-articles-using-convolution-neural-networks-ckcgax7ph0091jhs1aub58ccy)
 
-import numpy as np
-import pandas as pd
-import random
-import torch
-import re
-import nltk
-import torch
-import torch.nn as nn
-import torch.nn.functional as F
-import gensim
-from nltk import word_tokenize
-from sklearn.model_selection import train_test_split
-from sklearn.metrics import classification_report
-from gensim.models import Word2Vec
 
 
 ### Requirements to use the covid-19 text classification :
