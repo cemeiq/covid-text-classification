@@ -1,0 +1,9 @@
+README.txt
+setup.py
+covid.egg-info/PKG-INFO
+covid.egg-info/SOURCES.txt
+covid.egg-info/dependency_links.txt
+covid.egg-info/top_level.txt
+data/__init__.py
+src/__init__.py
+src/test.py
